@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CSC221_02_OCEANLEVELS/CSC221_02_OCEANLEVELS.vcxproj" />
+</Solution>
